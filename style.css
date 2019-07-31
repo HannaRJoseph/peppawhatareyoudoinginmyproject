@@ -1,0 +1,24 @@
+h1 {
+  color: pink
+}
+
+h2 {
+  color: purple
+}
+
+h3 {
+  color: purple
+}
+
+h5 {
+  color: #c5d5c5
+}
+
+button {
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.2s;
+}
+
+button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
